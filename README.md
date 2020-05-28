@@ -1,6 +1,6 @@
 # Deep Learning for Image Captioning
 
-This is a group project that I had done, together with @yashvi1109, when we were taking the Machine Learning Practical course at the University of Edinburgh.
+This is a group project that I had done, together with [yashvi1109](https://github.com/yashvi1109), when we were taking the Machine Learning Practical course at the University of Edinburgh.
 
 ## About
 
@@ -21,4 +21,4 @@ Image captioning is a challenging field of research that involves two domains: c
 
 ## Code References
 
-Our codes have been built on top of the [Edinburgh Machine Learning Practical course repository](https://github.com/CSTR-Edinburgh/mlpractical/tree/mlp2019-20/mlp_cluster_tutorial) and an [image captioning tutorial](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning). The highlight of this project is our implementation of the TPGN language model.
+Our codes have been built on top of the [Edinburgh Machine Learning Practical course repository](https://github.com/CSTR-Edinburgh/mlpractical/tree/mlp2019-20/mlp_cluster_tutorial) and an [image captioning tutorial](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning). The highlight of this project in terms of codes is our implementation of the TPGN language model.
