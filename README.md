@@ -1,6 +1,6 @@
 # Deep Learning for Image Captioning
 
-This is a group project that I had done, together with [yashvi1109](https://github.com/yashvi1109), when we were taking the Machine Learning Practical course at the University of Edinburgh.
+This is a group project that I had done, together with [@yashvi1109](https://github.com/yashvi1109), when we were taking the 'Machine Learning Practical' course at the University of Edinburgh.
 
 ## About
 
