@@ -1,0 +1,42 @@
+Using bean size of 5.
+
+COCO_val2014_000000000785.jpg:
+Hypothesis:
+<start> a woman riding skis down a snow covered slope <end> 
+
+COCO_val2014_000000001584.jpg:
+Hypothesis:
+<start> a red double decker bus driving down a street <end> 
+
+COCO_val2014_000000008548.jpg:
+Hypothesis:
+<start> a small plane is flying over a lake <end> 
+
+COCO_val2014_000000011796.jpg:
+Hypothesis:
+<start> a baby holding a tooth brush in his mouth <end> 
+
+COCO_val2014_000000012764.jpg:
+Hypothesis:
+<start> a cat and a dog playing with a ball <end> 
+
+COCO_val2014_000000012927.jpg:
+Hypothesis:
+<start> a man riding a wave on top of a surfboard <end> 
+
+COCO_val2014_000000029573.jpg:
+Hypothesis:
+<start> a man in a suit and tie standing on a wall <end> 
+
+COCO_val2014_000000029727.jpg:
+Hypothesis:
+<start> a little boy sitting in a chair with a flag and a kite <end> 
+
+COCO_val2014_000000035807.jpg:
+Hypothesis:
+<start> a man standing in front of an elephant <end> 
+
+COCO_val2014_000000049133.jpg:
+Hypothesis:
+<start> a stuffed animal in a bed with a remote control <end> 
+
